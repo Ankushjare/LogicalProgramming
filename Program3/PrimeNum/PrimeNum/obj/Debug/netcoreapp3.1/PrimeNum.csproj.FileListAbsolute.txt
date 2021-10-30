@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.exe
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.deps.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program3\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.genruntimeconfig.cache

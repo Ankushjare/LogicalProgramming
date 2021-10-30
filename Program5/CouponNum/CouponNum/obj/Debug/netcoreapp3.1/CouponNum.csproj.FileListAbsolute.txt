@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.exe
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.deps.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\bin\Debug\netcoreapp3.1\CouponNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program5\CouponNum\CouponNum\obj\Debug\netcoreapp3.1\CouponNum.genruntimeconfig.cache

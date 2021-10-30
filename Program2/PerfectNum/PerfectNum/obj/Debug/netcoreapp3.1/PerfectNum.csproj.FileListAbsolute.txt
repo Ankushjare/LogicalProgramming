@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.exe
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.deps.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\bin\Debug\netcoreapp3.1\PerfectNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.dll
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.pdb
+C:\Users\Ankush\Desktop\Assignment\Logical_Problem\Program2\PerfectNum\PerfectNum\obj\Debug\netcoreapp3.1\PerfectNum.genruntimeconfig.cache
